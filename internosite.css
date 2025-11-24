@@ -1,0 +1,118 @@
+
+
+subt
+{
+    color:skyblue;
+    font-size:40px;
+    font-weight:bold;   
+    font-family: cambria;
+}
+
+header 
+{
+    background-color: #2E8B57;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+footer 
+{
+    text-align: center;
+    padding: 10px;
+    background-color: #f1f1f1;
+    color: #333;
+    margin-top: 30px;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    background-color: #fafafa;
+    color: #333;
+}
+
+.introducao {
+    padding: 30px;
+    text-align: center;
+}
+
+.introducao p {
+    text-align: justify;
+}
+
+.introducao h2 {
+    color: #2E8B57;
+}
+
+.links {
+    margin-top: 20px;
+    font-size:40px;
+    text-align: left;
+}
+
+.botao {
+    display: inline-block;
+    text-decoration: none;
+    background-color: #2E8B57;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 8px;
+    margin: 10px;
+}
+
+.botao:hover {
+    background-color: #3CB371;
+}
+
+.creditos {
+    background-color: #f5fff7;
+    padding: 20px;
+
+}
+
+.creditos h2 
+{
+    color: #2E8B57;
+}
+
+h3
+{
+    padding:20px;
+    font-size:50px;
+    color: #2E8B57;
+}
+
+.descricao
+{
+padding:10px;
+font-size:18px;
+color:black; 
+}
+
+.teste
+{
+    padding:0px;
+}
+
+.teste h4
+{
+color:white;
+}
+
+h4
+{
+    padding:0px;
+    font-size:30px;
+    color:white;
+}
+
+hr
+{
+
+    color:#2E8B57;
+    }
+
+
+
+

@@ -1,0 +1,8 @@
+fontes das imagens e pesquisas
+
+astigmatismo.jpg: https://www.infoescola.com/visao/astigmatismo/
+miopia.jpg: https://www.mdsaude.com/oftalmologia/miopia/
+hipermetropia.jpg: https://www.saudebemestar.pt/pt/clinica/oftalmologia/hipermetropia/
+catarata.jpg: https://ioa.com.br/tudosobre/catarata/
+
+
